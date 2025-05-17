@@ -184,4 +184,4 @@ This script grants full Administrator access. Only run it in sandbox or training
 ## 📌 Author
 
 Drix – DevOps Engineer in Training  
-[https://github.com/endrissuofe](#)
+[Github Profile](https://github.com/endrissuofe)
